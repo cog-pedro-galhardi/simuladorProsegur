@@ -1,0 +1,369 @@
+﻿cod_filial;nome_filial;data;mes;cargo;faixa;pre_quantidade;quantidade
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;motorista;till 8;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;motorista;till 8;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;motorista;till 8;3;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;motorista;till 8;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;motorista;till 8;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;vigilante;till 8;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;vigilante;till 8;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;vigilante;till 8;2;1
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;vigilante;till 8;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;vigilante;till 8;2;2
+4;BRASILIA;01/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;02/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;03/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;06/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;07/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;08/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;09/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;10/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;13/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;14/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;15/05/2024;01/05/2024;motorista;till 8;11;10
+4;BRASILIA;16/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;17/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;20/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;21/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;22/05/2024;01/05/2024;motorista;till 8;11;12
+4;BRASILIA;23/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;24/05/2024;01/05/2024;motorista;till 8;11;10
+4;BRASILIA;27/05/2024;01/05/2024;motorista;till 8;11;12
+4;BRASILIA;28/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;29/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;30/05/2024;01/05/2024;motorista;till 8;11;11
+4;BRASILIA;31/05/2024;01/05/2024;motorista;till 8;11;12
+4;BRASILIA;01/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;02/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;03/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;06/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;07/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;08/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;09/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;10/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;13/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;14/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;15/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;16/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;17/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;20/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;21/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;22/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;23/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;24/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;27/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;28/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;29/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;30/05/2024;01/05/2024;vigilante;till 8;0;0
+4;BRASILIA;31/05/2024;01/05/2024;vigilante;till 8;0;0
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;motorista;till 9;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;motorista;till 9;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;motorista;till 9;3;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;motorista;till 9;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;motorista;till 9;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;vigilante;till 9;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;vigilante;till 9;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;vigilante;till 9;2;1
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;vigilante;till 9;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;vigilante;till 9;2;2
+4;BRASILIA;01/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;02/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;03/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;06/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;07/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;08/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;09/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;10/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;13/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;14/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;15/05/2024;01/05/2024;motorista;till 9;11;10
+4;BRASILIA;16/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;17/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;20/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;21/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;22/05/2024;01/05/2024;motorista;till 9;11;12
+4;BRASILIA;23/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;24/05/2024;01/05/2024;motorista;till 9;11;10
+4;BRASILIA;27/05/2024;01/05/2024;motorista;till 9;11;12
+4;BRASILIA;28/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;29/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;30/05/2024;01/05/2024;motorista;till 9;11;11
+4;BRASILIA;31/05/2024;01/05/2024;motorista;till 9;11;12
+4;BRASILIA;01/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;02/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;03/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;06/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;07/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;08/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;09/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;10/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;13/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;14/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;15/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;16/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;17/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;20/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;21/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;22/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;23/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;24/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;27/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;28/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;29/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;30/05/2024;01/05/2024;vigilante;till 9;0;0
+4;BRASILIA;31/05/2024;01/05/2024;vigilante;till 9;0;0
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;motorista;till 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;motorista;till 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;motorista;till 10;3;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;motorista;till 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;motorista;till 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;vigilante;till 10;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;vigilante;till 10;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;vigilante;till 10;2;1
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;vigilante;till 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;vigilante;till 10;2;2
+4;BRASILIA;01/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;02/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;03/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;06/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;07/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;08/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;09/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;10/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;13/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;14/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;15/05/2024;01/05/2024;motorista;till 10;11;10
+4;BRASILIA;16/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;17/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;20/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;21/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;22/05/2024;01/05/2024;motorista;till 10;11;12
+4;BRASILIA;23/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;24/05/2024;01/05/2024;motorista;till 10;11;10
+4;BRASILIA;27/05/2024;01/05/2024;motorista;till 10;11;12
+4;BRASILIA;28/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;29/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;30/05/2024;01/05/2024;motorista;till 10;11;11
+4;BRASILIA;31/05/2024;01/05/2024;motorista;till 10;11;12
+4;BRASILIA;01/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;02/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;03/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;06/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;07/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;08/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;09/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;10/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;13/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;14/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;15/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;16/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;17/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;20/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;21/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;22/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;23/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;24/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;27/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;28/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;29/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;30/05/2024;01/05/2024;vigilante;till 10;0;0
+4;BRASILIA;31/05/2024;01/05/2024;vigilante;till 10;0;0
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;motorista;over 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;motorista;over 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;motorista;over 10;3;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;motorista;over 10;3;4
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;motorista;over 10;3;3
+2;SÃO PAULO - BARRA FUNDA                      ;01/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;02/05/2024;01/05/2024;vigilante;over 10;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;03/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;06/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;07/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;08/05/2024;01/05/2024;vigilante;over 10;2;3
+2;SÃO PAULO - BARRA FUNDA                      ;09/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;10/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;13/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;14/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;15/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;16/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;17/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;20/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;21/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;22/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;23/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;24/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;27/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;28/05/2024;01/05/2024;vigilante;over 10;2;1
+2;SÃO PAULO - BARRA FUNDA                      ;29/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;30/05/2024;01/05/2024;vigilante;over 10;2;2
+2;SÃO PAULO - BARRA FUNDA                      ;31/05/2024;01/05/2024;vigilante;over 10;2;2
+4;BRASILIA;01/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;02/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;03/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;06/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;07/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;08/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;09/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;10/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;13/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;14/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;15/05/2024;01/05/2024;motorista;over 10;11;10
+4;BRASILIA;16/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;17/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;20/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;21/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;22/05/2024;01/05/2024;motorista;over 10;11;12
+4;BRASILIA;23/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;24/05/2024;01/05/2024;motorista;over 10;11;10
+4;BRASILIA;27/05/2024;01/05/2024;motorista;over 10;11;12
+4;BRASILIA;28/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;29/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;30/05/2024;01/05/2024;motorista;over 10;11;11
+4;BRASILIA;31/05/2024;01/05/2024;motorista;over 10;11;12
+4;BRASILIA;01/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;02/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;03/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;06/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;07/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;08/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;09/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;10/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;13/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;14/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;15/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;16/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;17/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;20/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;21/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;22/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;23/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;24/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;27/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;28/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;29/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;30/05/2024;01/05/2024;vigilante;over 10;0;0
+4;BRASILIA;31/05/2024;01/05/2024;vigilante;over 10;0;0
