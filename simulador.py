@@ -15,8 +15,7 @@ def prepare_data(demand_df, escala_df, abs_df):
         ]
     return escala_trabalhando
 
-
-def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000):
+def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000, tx_var_demanda=0, tx_var_abs=0):
     """
     Executa a simulação de Monte Carlo para o absenteísmo.
 
@@ -24,6 +23,8 @@ def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000):
         escala_df (pd.DataFrame): DataFrame de escala já filtrado.
         demanda_df (pd.DataFrame): DataFrame de demanda.
         n_simulacoes (int): Número de simulações.
+        tx_var_demanda (float): Percentual de variação na demanda (ex.: 0.10 para 10% de aumento).
+        tx_var_abs (float): Percentual de variação no absenteísmo (ex.: 0.05 para 5% de aumento).
 
     Returns:
         pd.DataFrame: DataFrame consolidado com resultados das simulações.
@@ -34,9 +35,11 @@ def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000):
 
     # Preparar a base de demanda
     demanda_base = demanda_df[demanda_cols].copy()
+    demanda_base['quantidade'] *= (1 + tx_var_demanda)
 
     # Preparar a base de escala: cada colaborador por data/cod_filial/cargo
     escala_base = escala_df[['data', 'cod_filial', 'cargo', 'nome', 'tx_absenteismo']].copy()
+    escala_base['tx_absenteismo'] *= (1 + tx_var_abs)
 
     # Expandir escala_base para todas as simulações
     escala_expanded = escala_base.loc[np.repeat(escala_base.index.values, n_simulacoes)].reset_index(drop=True)
@@ -61,6 +64,52 @@ def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000):
     demanda_simulada['demanda_nao_atendida'] = np.maximum(demanda_simulada['quantidade'] - demanda_simulada['n_presentes'], 0)
 
     return demanda_simulada
+
+# def monte_carlo_simulation(escala_df, demanda_df, n_simulacoes=1000):
+#     """
+#     Executa a simulação de Monte Carlo para o absenteísmo.
+
+#     Args:
+#         escala_df (pd.DataFrame): DataFrame de escala já filtrado.
+#         demanda_df (pd.DataFrame): DataFrame de demanda.
+#         n_simulacoes (int): Número de simulações.
+
+#     Returns:
+#         pd.DataFrame: DataFrame consolidado com resultados das simulações.
+#     """
+#     # Definir as colunas-chave para agrupamento
+#     chave_cols = ['data', 'cod_filial', 'cargo']
+#     demanda_cols = ['data', 'cod_filial', 'cargo', 'faixa', 'quantidade']
+
+#     # Preparar a base de demanda
+#     demanda_base = demanda_df[demanda_cols].copy()
+
+#     # Preparar a base de escala: cada colaborador por data/cod_filial/cargo
+#     escala_base = escala_df[['data', 'cod_filial', 'cargo', 'nome', 'tx_absenteismo']].copy()
+
+#     # Expandir escala_base para todas as simulações
+#     escala_expanded = escala_base.loc[np.repeat(escala_base.index.values, n_simulacoes)].reset_index(drop=True)
+#     escala_expanded['simulacao'] = np.tile(np.arange(n_simulacoes), len(escala_base))
+
+#     # Simular presença para cada colaborador e cada simulação
+#     random_vals = np.random.rand(len(escala_expanded))
+#     escala_expanded['presente'] = random_vals > escala_expanded['tx_absenteismo']
+
+#     # Calcular número de presentes por simulação, data, cod_filial e cargo
+#     presenca = escala_expanded[escala_expanded['presente']].groupby(['simulacao'] + chave_cols).size().reset_index(name='n_presentes')
+
+#     # Expandir demanda_base para todas as simulações
+#     demanda_expanded = demanda_base.loc[np.repeat(demanda_base.index.values, n_simulacoes)].reset_index(drop=True)
+#     demanda_expanded['simulacao'] = np.tile(np.arange(n_simulacoes), len(demanda_base))
+
+#     # Realizar o merge entre demanda_expanded e presenca
+#     demanda_simulada = demanda_expanded.merge(presenca, on=chave_cols + ['simulacao'], how='left')
+#     demanda_simulada['n_presentes'] = demanda_simulada['n_presentes'].fillna(0).astype(int)
+
+#     # Calcular demanda não atendida
+#     demanda_simulada['demanda_nao_atendida'] = np.maximum(demanda_simulada['quantidade'] - demanda_simulada['n_presentes'], 0)
+
+#     return demanda_simulada
 
 
 # Função para plotar estatísticas

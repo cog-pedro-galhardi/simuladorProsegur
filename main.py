@@ -4,6 +4,7 @@ from absenteismo import calculate_absenteism
 from simulador import monte_carlo_simulation, simulation_results, prepare_data
 
 # Configurações de layout
+st.set_page_config(page_title="Simulador", page_icon="assets/cog.png")
 st.markdown(
     """
     <style>
@@ -39,6 +40,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
 st.markdown("<h1 style='color: #007BFF;'>Simulador</h1>", unsafe_allow_html=True)
 
 # sidebar para o menu de navegação
